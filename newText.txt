@@ -1,6 +1,3 @@
 dfdfdfdf
 jdkfjkdfjdifjdifj
-<<<<<<< HEAD
-=======
 얌마
->>>>>>> main
